@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#section-0 {
+  position: horizontal;
+  font-size: 80px;
+  text-align: center;
+}
+
+#section-0
+h1 {
+  color: black;
+}
+
+#section-1 {
+  display: grid;
+  justify-content: center;
+  background-color:red;
+  padding: 15px;
+}
+
+.section-1,h1 {
+  color: white;
+}
+
+.section-1,h5{
+  color: white;
+}
+
+#section-2 {
+  padding: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+#section-3 {
+  padding: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+#section-4 {
+  padding: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.h1,
+h2,
+h3 {
+  justify-content: center;
+  display: flex;
+  font-style: bold;
+}
+
+#section-5 {
+  background-color:black;
+  display: grid;
+  padding: 9px;
+  justify-content:center;
+}
+
+#section-5,h5{
+color: white;
+}
+
+
+#section-6{
+  background-color:red;
+  display:grid;
+  padding: 9px;
+  justify-content:center;
+}
+
+#section-6,h5{
+  color:white;
+}
+
+.top-bar {
+  background: blue;
+  width: 150vw;
+  height: 3rem;
+  padding: 0.5em;
+}
+
+.top-bar a {
+  display:flex;
+  color:white;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+
+/* .navbar{
+  background:blue ;
+} */
+
+
+
+
